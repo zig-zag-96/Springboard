@@ -1,0 +1,17 @@
+Q: 1 Write a summary of the exploratory data analysis above. What numerical or categorical 
+features were in the data?
+
+There were categorical featues such as Name, Region, State, and numerical features such as 
+Runs, DaysOpen, Skiable Terrain, etc. 
+
+The states can be treated equally as seen in th analysis done in 3.5.3 through PCA analysis.
+Therefore we can conclude that droping the states is not an issue that will hinder our model.
+The resort level datat is much more telling of the significance of certain features on the 
+ticekt price. The heatmap for instance suggests that the availabilty of snow (Snow Making),
+number of runs (Runs), total chairs, vertical drop, are very important. One of the new variables, 
+resort_night_skiing_state_ratio, is very correlated with ticket price suggesting guests 
+value the ability to spend longer ski days.
+
+The question of target feature is still murky. There are some features that seem to go hand 
+in hand with higher ticket prices are Total Skiable area, Total days open, Resorts per 100k 
+sq miles

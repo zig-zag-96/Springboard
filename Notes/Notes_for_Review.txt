@@ -1,0 +1,32 @@
+To review:
+
+Data Camp: 
+1. Data Types for Python
+
+2. Exploratory Data Analysis
+
+3. Object Oriented Programing
+
+4. Improving your Data Visualizations in Python
+
+5. Introduction to Linear Modeling in Python
+
+PCA Review:
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html44
+
+Plotting: 
+
+use the builtin pandas plotting e.g. .plot()
+
+Capstone: 
+
+Look for data sets that have :
+1. At least 10k rows
+2. At least 10 feaures
+3. Any subject: Spotify (https://research.atspotify.com/datasets/), API. (Compilers, Popularity, etc.)
+4. Don't look for Data that is too clean. 
+
+
+Scraping! good tutorial on Spingboard unit 7.2
+
+
