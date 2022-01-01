@@ -1,0 +1,6 @@
+Springboard Capstone 2: Can we predict whether a song will hit the Top 100 Billboards? 
+
+Music is a huge part of the way people express themselves and conenct to eachother. It stands to reason that popular songs are song which many feel a connection to or which many can 
+
+
+Why then, are certain songs so popular? Using Spotify's API to pull music analysis features information about Billboard yearly 100 Hit songs from 2001-2020, I will see if any features can be used to accurately predict whether a song will be a hit or not.
